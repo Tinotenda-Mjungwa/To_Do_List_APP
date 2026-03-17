@@ -1,20 +1,49 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<h1 align="center">🚀 TaskFlow Pro</h1>
 
-# Run and deploy your AI Studio app
+<p align="center">
+  A full-stack To-Do application with advanced data structures and analytics.
+</p>
 
-This contains everything you need to run your app locally.
+<hr/>
 
-View your app in AI Studio: https://ai.studio/apps/e3939121-6f17-4e61-a178-e97af4da7bda
+<h2>📌 Features</h2>
+<ul>
+  <li>✅ Task Management (CRUD)</li>
+  <li>🔐 JWT Authentication</li>
+  <li>📊 Analytics Dashboard</li>
+  <li>📅 Calendar View</li>
+  <li>🔁 Recurring Tasks</li>
+</ul>
 
-## Run Locally
+<h2>🧠 Data Structures Used</h2>
+<ul>
+  <li>HashMap (Task Cache)</li>
+  <li>Priority Queue (Task Priority)</li>
+  <li>Min Heap (Deadlines)</li>
+  <li>Stack (Undo Feature)</li>
+  <li>Inverted Index (Search Optimization)</li>
+</ul>
 
-**Prerequisites:**  Node.js
+<h2>⚙️ Tech Stack</h2>
+<ul>
+  <li>Frontend: React + Vite</li>
+  <li>Backend: Node.js + Express</li>
+  <li>Database: SQLite</li>
+</ul>
 
+<h2>🚀 Getting Started</h2>
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+<pre>
+npm install
+npm run dev
+</pre>
+
+<h2>📂 Project Structure</h2>
+
+<pre>
+/src       → Frontend
+server.ts  → Backend
+</pre>
+
+<h2>👩‍💻 Author</h2>
+<p></p>
